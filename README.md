@@ -4,9 +4,9 @@
   </a>
 </p>
 
-CHANGE 1 ON BRANCH2
-CHANGE 2 ON BRANCH2
-CHANGE 3 ON BRANCH2
+CHANGE 1
+CHANGE 2
+CHANGE 3
 
 # Naming cheatsheet
 
