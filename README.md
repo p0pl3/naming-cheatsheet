@@ -6,6 +6,7 @@
 
 CHANGE 1 ON BRANCH2
 CHANGE 2 ON BRANCH2
+CHANGE 3 ON BRANCH2
 
 # Naming cheatsheet
 
